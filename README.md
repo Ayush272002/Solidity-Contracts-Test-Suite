@@ -20,6 +20,8 @@ This repository contains a set of Solidity contracts along with corresponding te
 
 9. **Token.sol**: A basic ERC20 token contract that implements a standard token interface. Test cases should verify the functionality of token transfers, approvals, and other ERC20 standard operations.
 
+10. Also, if you have any confusion about which contacts are linked to other check the `Diagram for Contacts` directory.
+
 ## Running Tests
 
 To run the test suite, ensure that you have Node installed
