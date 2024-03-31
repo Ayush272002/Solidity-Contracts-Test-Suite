@@ -27,15 +27,24 @@ This repository contains a set of Solidity contracts along with corresponding te
 To run the test suite, ensure that you have Node installed
 (if you dont have node follow this [link](https://nodejs.org/en/download) to download node and add it to the path i.e., system variables) 
 
-Open Terminal and then install Hardhat
-More things about hardhat can be found [here](https://hardhat.org/hardhat-runner/docs/getting-started) if you are facing any issues
-```shell
-npm install hardhat
-```
-or
-```shell
-npm install --save-dev hardhat
-```
+Also Hardhat is required<br>
+More things about hardhat can be found [here](https://hardhat.org/hardhat-runner/docs/getting-started) if you are facing any issues<br>
+To set up Hardhat for your project, follow these steps:
+
+1. **Open Terminal**: Launch your terminal application.
+
+2. **Change Directory**: Navigate to your project directory using the `cd` command. For example:
+   ```shell
+   cd /path/to/your/project/directory
+   ```
+3. **Install Hardhat**: Run the following Script to install Hardhat
+   ```shell
+   npm install hardhat
+   ```
+   or
+   ```shell
+   npm install --save-dev hardhat
+   ```
 
 Then, execute the following command to run all tests:
 
