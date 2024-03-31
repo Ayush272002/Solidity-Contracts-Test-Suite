@@ -25,11 +25,10 @@ This repository contains a set of Solidity contracts along with corresponding te
 ## Running Tests
 
 To run the test suite, ensure that you have Node installed
-(if you dont have follow this link to download node and add it to the path i.e., system variables) 
-https://nodejs.org/en/download
+(if you dont have node follow this [link](https://nodejs.org/en/download) to download node and add it to the path i.e., system variables) 
 
 Open Terminal and then install Hardhat
-More things about hardhat can be found here if you are facing any issues : https://hardhat.org/hardhat-runner/docs/getting-started
+More things about hardhat can be found [here](https://hardhat.org/hardhat-runner/docs/getting-started) if you are facing any issues
 ```shell
 npm install hardhat
 ```
@@ -46,6 +45,6 @@ npx hardhat test
 
 This command will execute all test cases defined in the `test/` directory and provide feedback on the contract behavior.
 
-Feel free to read more about secure deploy at Open Zepplin : https://www.openzeppelin.com/
+Feel free to read more about secure deploy at [Open Zepplin](https://www.openzeppelin.com/)
 
 Feel free to extend the test suite or provide additional contracts as needed. Happy testing!
