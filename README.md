@@ -45,6 +45,11 @@ To set up Hardhat for your project, follow these steps:
    ```shell
    npm install --save-dev hardhat
    ```
+   or
+   ```shell
+   npm insall
+   ```
+   this will insall the required dependencies and modules required
 
 Then, execute the following command to run all tests:
 
