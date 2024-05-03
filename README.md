@@ -47,7 +47,7 @@ To set up Hardhat for your project, follow these steps:
    ```
    or
    ```shell
-   npm insall
+   npm install
    ```
    this will insall the required dependencies and modules required
 
